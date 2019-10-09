@@ -3,7 +3,7 @@ package ru.mospolytech.fabric.Doctors;
 public class Cardiologist implements Doctor {
     public void render() {
 
-        System.out.println("<a>New cardiologist</a>");
+        System.out.println("New cardiologist");
         onClick();
     }
 

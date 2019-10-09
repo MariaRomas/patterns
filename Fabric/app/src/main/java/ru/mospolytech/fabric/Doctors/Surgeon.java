@@ -4,7 +4,7 @@ public class Surgeon implements Doctor {
 
     public void render() {
 
-        System.out.println("<a>New surgeon</a>");
+        System.out.println("New surgeon");
         onClick();
     }
 
