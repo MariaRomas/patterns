@@ -8,7 +8,7 @@ import android.os.Bundle;
 import ru.mospolytech.abstractfactory.Factories.CardFactory;
 import ru.mospolytech.abstractfactory.Factories.DepartamentFactory;
 import ru.mospolytech.abstractfactory.Factories.SurgFactory;
-
+//Абстрактная фабрика - порождающий паттерн
 public class MainActivity extends AppCompatActivity {
 private String departament;
     @Override
